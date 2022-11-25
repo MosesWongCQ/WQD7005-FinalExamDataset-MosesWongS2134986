@@ -2,8 +2,7 @@
 100 sample data from group assignment dataset
 
 The dataset consists of 21 unique features and 100 unique patients. In the Boolean features, 1 means "yes" and 2 means "no". values as 97 and 99 are missing data.
-
-sex: female or male
+ Markup : 1.sex: female or male
 age: of the patient.
 classification: covid test findings. Values 1-3 mean that the patient was diagnosed with covid in different
 degrees. 4 or higher means that the patient is not a carrier of covid or that the test is inconclusive.
