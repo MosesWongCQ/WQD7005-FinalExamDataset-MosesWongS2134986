@@ -25,3 +25,4 @@ The dataset consists of 21 unique features and 100 unique patients. In the Boole
 20. intubed: whether the patient was connected to the ventilator.
 21. icu: Indicates whether the patient had been admitted to an Intensive Care Unit.
 22. death(target): indicates whether the patient died or recovered.
+23. Date_ICU: Date of the patient entering ICU 
